@@ -1,0 +1,8 @@
+.python-version
+__pycache__/download.cpython-36.pyc
+data/._mnist_manypermutations.pt
+data/mnist_manypermutations.pt
+data/mnist_manypermutations.tar.gz
+metrics/__pycache__/metrics.cpython-36.pyc
+model/__pycache__/common.cpython-36.pyc
+model/__pycache__/meralg1.cpython-36.pyc
